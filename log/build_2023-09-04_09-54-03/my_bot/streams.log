@@ -1,0 +1,50 @@
+[0.020s] Invoking command in '/home/zha406/Codes/my_bot/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake /home/zha406/Codes/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zha406/Codes/my_bot/install/my_bot
+[0.150s] -- The C compiler identification is GNU 9.4.0
+[0.235s] -- The CXX compiler identification is GNU 9.4.0
+[0.267s] -- Detecting C compiler ABI info
+[0.392s] -- Detecting C compiler ABI info - done
+[0.410s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.410s] -- Detecting C compile features
+[0.410s] -- Detecting C compile features - done
+[0.431s] -- Detecting CXX compiler ABI info
+[0.572s] -- Detecting CXX compiler ABI info - done
+[0.597s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.597s] -- Detecting CXX compile features
+[0.598s] -- Detecting CXX compile features - done
+[0.601s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.604s] [33mCMake Warning (dev) at /opt/ros/foxy/share/ament_cmake_core/cmake/core/python.cmake:22 (find_package):
+[0.604s]   Policy CMP0148 is not set: The FindPythonInterp and FindPythonLibs modules
+[0.605s]   are removed.  Run "cmake --help-policy CMP0148" for policy details.  Use
+[0.605s]   the cmake_policy command to set the policy and suppress this warning.
+[0.605s] 
+[0.605s] Call Stack (most recent call first):
+[0.605s]   /opt/ros/foxy/share/ament_cmake_core/cmake/core/all.cmake:53 (include)
+[0.605s]   /opt/ros/foxy/share/ament_cmake_core/cmake/ament_cmake_core-extras.cmake:17 (include)
+[0.605s]   /opt/ros/foxy/share/ament_cmake_core/cmake/ament_cmake_coreConfig.cmake:41 (include)
+[0.606s]   /opt/ros/foxy/share/ament_cmake/cmake/ament_cmake_export_dependencies-extras.cmake:15 (find_package)
+[0.606s]   /opt/ros/foxy/share/ament_cmake/cmake/ament_cmakeConfig.cmake:41 (include)
+[0.606s]   CMakeLists.txt:19 (find_package)
+[0.606s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.606s] [0m
+[0.636s] -- Found PythonInterp: /home/zha406/anaconda3/bin/python3 (found suitable version "3.11.3", minimum required is "3") 
+[0.636s] -- Using PYTHON_EXECUTABLE: /home/zha406/anaconda3/bin/python3
+[0.852s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.886s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.907s] Traceback (most recent call last):
+[0.907s]   File "/opt/ros/foxy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 21, in <module>
+[0.907s]     from catkin_pkg.package import parse_package_string
+[0.907s] ModuleNotFoundError: No module named 'catkin_pkg'
+[0.910s] [31mCMake Error at /opt/ros/foxy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:94 (message):
+[0.910s]   execute_process(/home/zha406/anaconda3/bin/python3
+[0.910s]   /opt/ros/foxy/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.910s]   /home/zha406/Codes/my_bot/package.xml
+[0.911s]   /home/zha406/Codes/my_bot/build/my_bot/ament_cmake_core/package.cmake)
+[0.911s]   returned error code 1
+[0.911s] Call Stack (most recent call first):
+[0.911s]   /opt/ros/foxy/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.911s]   /opt/ros/foxy/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.911s]   CMakeLists.txt:32 (ament_lint_auto_find_test_dependencies)
+[0.911s] 
+[0.912s] [0m
+[0.912s] -- Configuring incomplete, errors occurred!
+[0.927s] Invoked command in '/home/zha406/Codes/my_bot/build/my_bot' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake /home/zha406/Codes/my_bot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zha406/Codes/my_bot/install/my_bot

@@ -1,0 +1,26 @@
+[0.018s] Invoking command in '/home/zha406/Codes/my_bot/build/my_bot': CMAKE_PREFIX_PATH=/home/zha406/Codes/my_bot/install/my_bot:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake --build /home/zha406/Codes/my_bot/build/my_bot -- -j20 -l20
+[0.098s] Invoked command in '/home/zha406/Codes/my_bot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/home/zha406/Codes/my_bot/install/my_bot:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake --build /home/zha406/Codes/my_bot/build/my_bot -- -j20 -l20
+[0.241s] Invoking command in '/home/zha406/Codes/my_bot/build/my_bot': CMAKE_PREFIX_PATH=/home/zha406/Codes/my_bot/install/my_bot:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake --install /home/zha406/Codes/my_bot/build/my_bot
+[0.288s] -- Install configuration: ""
+[0.288s] -- Execute custom install script
+[0.288s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/config/empty.yaml
+[0.288s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[0.289s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/robot_core.xacro
+[0.289s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/launch/rsp.launch.py
+[0.289s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/worlds/empty.world
+[0.289s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[0.289s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[0.290s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[0.290s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[0.290s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/environment/path.sh
+[0.290s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/environment/path.dsv
+[0.291s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/local_setup.bash
+[0.291s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/local_setup.sh
+[0.291s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/local_setup.zsh
+[0.291s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/local_setup.dsv
+[0.291s] -- Symlinking: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/package.dsv
+[0.297s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[0.297s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[0.297s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[0.297s] -- Up-to-date symlink: /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/package.xml
+[0.307s] Invoked command in '/home/zha406/Codes/my_bot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/home/zha406/Codes/my_bot/install/my_bot:/opt/ros/foxy:/opt/ros/noetic CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake --install /home/zha406/Codes/my_bot/build/my_bot

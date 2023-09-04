@@ -1,0 +1,1 @@
+/home/zha406/Codes/my_bot/build/my_bot/ament_cmake_environment_hooks/local_setup.bash
