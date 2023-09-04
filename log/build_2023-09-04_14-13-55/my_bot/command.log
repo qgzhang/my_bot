@@ -1,0 +1,4 @@
+Invoking command in '/home/zha406/Codes/my_bot/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake --build /home/zha406/Codes/my_bot/build/my_bot -- -j20 -l20
+Invoked command in '/home/zha406/Codes/my_bot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake --build /home/zha406/Codes/my_bot/build/my_bot -- -j20 -l20
+Invoking command in '/home/zha406/Codes/my_bot/build/my_bot': CMAKE_PREFIX_PATH=/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake --install /home/zha406/Codes/my_bot/build/my_bot
+Invoked command in '/home/zha406/Codes/my_bot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy:${CMAKE_PREFIX_PATH} CONDA_PROMPT_MODIFIER=(base) /home/zha406/.local/bin/cmake --install /home/zha406/Codes/my_bot/build/my_bot
