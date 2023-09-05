@@ -38,10 +38,32 @@ def generate_launch_description():
                         output='screen')
 
 
+    # Run the joystick node to publish topic /joy
+    # joy = Node(package='joy',
+    #            executable='joy_node',
+    #            name='joy_node',
+    #            output='screen')
+
+
+    # Run the teleop_node node to convert topic /joy to topic /cmd_vel
+
+    teleop = IncludeLaunchDescription(
+                PythonLaunchDescriptionSource([os.path.join(
+                    get_package_share_directory('teleop_twist_joy'),'launch','teleop-launch.py'
+                )]), launch_arguments={'joy_config': 'xbox'}.items()
+    )
+    
+    # teleop = Node(package='teleop_twist_joy',
+    #            executable='teleop_node',
+    #            name='teleop_node',
+    #            output='screen')
+    
 
     # Launch them all!
     return LaunchDescription([
         rsp,
         gazebo,
         spawn_entity,
+        # joy,
+        teleop,
     ])

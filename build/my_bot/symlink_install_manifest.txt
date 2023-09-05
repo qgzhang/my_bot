@@ -1,12 +1,15 @@
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/config/empty.yaml
+/home/zha406/Codes/my_bot/install/my_bot/share/my_bot/config/gazebo.rviz
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/config/view_bot.rviz
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/gazebo_control.xacro
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/inertial_macros.xacro
+/home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/lidar.xacro
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/robot_core.xacro
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/launch/launch_sim.launch.py
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/launch/rsp.launch.py
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/worlds/empty.world
+/home/zha406/Codes/my_bot/install/my_bot/share/my_bot/worlds/obstacle.world
 /home/zha406/Codes/my_bot/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
 /home/zha406/Codes/my_bot/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
