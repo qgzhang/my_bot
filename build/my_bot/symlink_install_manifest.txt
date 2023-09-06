@@ -1,6 +1,8 @@
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/config/empty.yaml
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/config/gazebo.rviz
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/config/view_bot.rviz
+/home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/camera.xacro
+/home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/cmds
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/gazebo_control.xacro
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/inertial_macros.xacro
 /home/zha406/Codes/my_bot/install/my_bot/share/my_bot/description/lidar.xacro
